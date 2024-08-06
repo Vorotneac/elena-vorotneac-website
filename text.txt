@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educheia by Elena Vorotneac</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eaf2e3;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1a5722;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #144217;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #1a5722;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #1a5722;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Educheia by Elena Vorotneac</h1>
+        <p>Explorând puterea educației și a mentoratului</p>
+    </header>
+    <nav>
+        <a href="#about">Despre mine</a>
+        <a href="#education">Educație</a>
+        <a href="#experience">Experiență profesională</a>
+        <a href="#projects">Proiecte</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>Despre mine</h2>
+        <p>Sunt Elena Vorotneac, prima pedagogă din Republica Moldova certificată în TBRI de către Universitatea din Texas. Sunt dedicată educației și dezvoltării personale, cu o experiență vastă în formarea și mentoratul adulților și tinerilor.</p>
+        <p>Am avut oportunitatea de a participa la cursuri și formări alături de experți recunoscuți, cum ar fi Cyndi Lee, Sarah Mercado și Melissa Robyn. Sunt implicată în diverse proiecte care promovează relații sănătoase și implicarea civică a tinerilor.</p>
+    </section>
+    <section id="education">
+        <h2>Educație</h2>
+        <p>Universitatea din Texas, 2021 - Certificare TBRI</p>
+        <p>Participări la diverse cursuri de formare în Sibiu și Republica Moldova</p>
+    </section>
+    <section id="experience">
+        <h2>Experiență profesională</h2>
+        <p>Profesor și mentor dedicat, câștigător al titlului de Pedagogul Anului 2022 în Republica Moldova.</p>
+        <p>Fondator al Asociației Obștești „ATU” și facilitator certificat pentru Making Sense of Your Worth de HALO Project International.</p>
+        <p>Organizator al evenimentelor și sesiunilor de formare pentru profesori și directori de școli.</p>
+    </section>
+    <section id="projects">
+        <h2>Proiecte</h2>
+        <p>Implementarea proiectelor care implică tinerii în activități civice și promovarea culturii și relațiilor sănătoase dintre generații prin Asociația Obștească „ATU”.</p>
+        <p>Colaborări cu diverse organizații și instituții, cum ar fi ISE Strășeni, IGSU, SAP Strășeni/DGE Strășeni, UN Women, și Terre des Hommes.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Pentru a lua legătura cu mine, mă puteți contacta la:</p>
+        <p>Email: elena.vorotneac@example.com</p>
+        <p>Telefon: +373 123 45678</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Educheia by Elena Vorotneac. Toate drepturile rezervate.</p>
+    </footer>
+</body>
+</html>
